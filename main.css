@@ -1,0 +1,108 @@
+html {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+}
+
+body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      background: #1f1f1f;
+      font-family: "Ailerons";
+      color: #fff;
+      font-size: 400px;
+}
+
+.letter1 {
+      position: absolute;
+      top: 30%;
+      left: 0;
+}
+
+.letter2 {
+      position: absolute;
+      top: 0;
+      left: 20%;
+}
+
+.letter3 {
+      position: absolute;
+      top: 50%;
+      left: 60%;
+}
+
+.letter4 {
+      position: absolute;
+      top: 80%;
+      left: 80%;
+}
+
+.letter5 {
+      position: absolute;
+      top: 120%;
+      left: 10%;
+}
+
+.letter6 {
+      position: absolute;
+      top: 130%;
+      left: 20%;
+}
+
+.letter7 {
+      position: absolute;
+      top: 220%;
+      left: 60%;
+}
+
+.letter8 {
+      position: absolute;
+      top: 250%;
+      left: 10%;
+}
+
+.box1 {
+      background: #0008fd;
+      height: 400px;
+      width: 400px;
+      position: absolute;
+      top: 30%;
+      left: 4%;
+}
+
+.box2 {
+      background: #0008fd;
+      height: 400px;
+      width: 400px;
+      position: absolute;
+      top: 56%;
+      left: 60%;
+}
+
+.box3 {
+      background: #0008fd;
+      height: 400px;
+      width: 400px;
+      position: absolute;
+      top: 100%;
+      left: 12%;
+}
+
+.box4 {
+      background: #0008fd;
+      height: 400px;
+      width: 400px;
+      position: absolute;
+      top: 160%;
+      left: 50%;
+}
+
+.box5 {
+      background: #0008fd;
+      height: 400px;
+      width: 400px;
+      position: absolute;
+      top: 210%;
+      left: 12%;
+}
